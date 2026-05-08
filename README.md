@@ -52,4 +52,4 @@ Delivered a clear set of insights and visualizations demonstrating how raw data 
 ## Future Improvements
 * Add advanced visualizations (Seaborn / Plotly)
 * Build an interactive dashboard
-* Integrate larger or real-world datasets
+* Integrate larger or real-world datasets.
